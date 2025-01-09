@@ -1,16 +1,60 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=200&section=header&text=Welcome%20to%20Aman's%20GitHub&fontSize=50&fontColor=ffffff" alt="Header" />
+</p>
 
-<!--
-**amansherjada/amansherjada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=24&pause=1000&color=39d353&center=true&vCenter=true&width=500&lines=AI+Enthusiast;Always+Learning+%7C+Always+Building!" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me:
+- 🌱 I’m currently working on **LangChain and Generative AI Projects**.  
+- 🤝 Open to collaborating on **AI/ML, Deep Learning**, and **Open-Source Projects**.  
+- 🌟 Fun fact: I also create music! 🎶  
+
+---
+
+### 🛠️ Languages & Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,typescript,react,nextjs,html,css,aws,tensorflow,pytorch,mongodb,mysql,github,vscode,anaconda&theme=light" alt="Skills" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amansherjada&theme=radical" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansherjada&layout=compact&theme=tokyonight&exclude_repo=repo-name-to-exclude" alt="Top Languages" />
+</p>
+
+
+---
+
+### 🌟 Featured Projects:
+- 🔗 [**Link Summary App**](https://linksummary.streamlit.app/): Extract and summarize content from URLs.  
+- 🔗 [**Customer Churn Prediction**](https://churnpro.streamlit.app/): Predict customer churn with ANN models.  
+- 🔗 [**Q&A Chatbot with Fireworks AI**](https://huggingface.co/spaces/amansherjada/Fireworks_QA_Assistant): Dynamic Q&A chatbot.  
+- 🛠️ **Explore More**: [My Repositories](https://github.com/amansherjada?tab=repositories)
+
+---
+
+### 🌐 Let's Connect:
+<p align="center">
+  <a href="mailto:amanskhan55@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/amansherjada"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/amanskhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
