@@ -12,6 +12,7 @@
 ### 👨‍💻 About Me:
 - 🌱 I’m currently working on **LangChain and Generative AI Projects**.  
 - 🤝 Open to collaborating on **AI/ML, Deep Learning**, and **Open-Source Projects**.  
+- 🏅 **Kaggle Notebooks Expert**, ranked **1681 out of 61,002** contributors.  
 - 🌟 Fun fact: I also create music! 🎶  
 
 ---
