@@ -51,7 +51,7 @@
   <a href="https://github.com/amansherjada"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/amanskhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.kaggle.com/amansherjadakhan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-  <a href="https://huggingface.co/amansherjada"><img src="https://img.shields.io/badge/HuggingFace-faa520?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"></a>
+  <a href="https://huggingface.co/amansherjada"><img src="https://img.shields.io/badge/HuggingFace-faa520?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
 </p>
 
 
