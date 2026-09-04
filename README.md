@@ -1,158 +1,106 @@
+<div align="center">
+
 # Aman Khan
 
-**AI Engineer — agents, RAG, and production automation**
+**AI Engineer · Agents · RAG · Production Automation**
 
 Abu Dhabi, UAE · Available immediately
 
-[![Portfolio](https://img.shields.io/badge/theamankhan.com-000000?style=flat-square&logo=safari&logoColor=white)](https://theamankhan.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanskhan)
-[![Kaggle](https://img.shields.io/badge/Kaggle_Expert-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/amansherjadakhan)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/amansherjada)
-[![Email](https://img.shields.io/badge/amanskhan55@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amanskhan55@gmail.com)
+[Portfolio](https://theamankhan.com) ·
+[LinkedIn](https://www.linkedin.com/in/amanskhan) ·
+[Kaggle](https://www.kaggle.com/amansherjadakhan) ·
+[Hugging Face](https://huggingface.co/amansherjada) ·
+[Email](mailto:amanskhan55@gmail.com)
+
+<br />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+</div>
 
 ---
 
-## Tech stack
+## What I do
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,fastapi,react,nextjs,vite&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,gcp,aws,cloudflare,mongodb,postgres,redis,sqlite&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,tailwind,streamlit,linux,vscode&theme=dark" />
-</p>
+I build AI systems that run in daily production — not demos.
 
----
+For two years I was the sole AI engineer across a three-company group in Mumbai (American Hairline, Alchemane, Ydigital). I worked directly with sales, HR, marketing, and operations, then designed, shipped, and maintained the systems they used every day.
 
-## GitHub stats
+I now live in Abu Dhabi and I am looking for AI / ML / automation roles where the work has to ship.
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amansherjada&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansherjada&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
+**Results I can stand behind**
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=amansherjada&theme=github-dark-blue&hide_border=true" />
-</p>
+- Cut LLM API cost **~55%** on a live call-audit pipeline while keeping **~95%** high-priority coverage
+- Raised content output **~300%** with GenAI + n8n workflows
+- Ran attendance and payroll for **107** staff
+- Audited **100%** of sales calls across 11 quality parameters
 
 ---
 
-## What I actually do
+## Featured work
 
-I build AI systems that run in daily production — not demos, not proof-of-concepts that never ship.
+Sanitized snapshots of production systems. Live credentials, customer PII, and private keys are not in these repos.
 
-For two years I was the sole AI architect across a three-company group (American Hairline, Alchemane, Ydigital). I sat with sales, HR, marketing, and operations — understood exactly what they needed — then designed, built, and maintained the systems they relied on every single day.
+| Product | What it did in production | Repo |
+| --- | --- | --- |
+| **HireOS** | End-to-end recruitment: CV parse → personalised questions → WhatsApp test → anti-cheat → auto-grade → HR dashboard | [amansherjada/hireos](https://github.com/amansherjada/hireos) |
+| **CRM Call Audit** | Whisper + GPT-4o pipeline that scored every sales call. Model routing cut API cost ~55% | [amansherjada/crm-call-audit](https://github.com/amansherjada/crm-call-audit) |
+| **Sales LMS** | RAG over training transcripts + voice AI roleplay with live scoring for two sales teams | [amansherjada/ahl-sales-lms](https://github.com/amansherjada/ahl-sales-lms) |
+| **Hazri Box** | Face + GPS geofenced attendance / payroll PWA for 107 salon and back-office staff | [amansherjada/hazri-box](https://github.com/amansherjada/hazri-box) |
+| **Marketing Attribution** | Meta Ads → WhatsApp → booking funnel in real time. UTM + webhooks + campaign ROI | [amansherjada/marketing-attribution](https://github.com/amansherjada/marketing-attribution) |
+| **Career Automation** | Human-in-the-loop career OS: MCP, Cloudflare Workers, Grok, Sheets, Drive, Gmail | [amansherjada/career-automation](https://github.com/amansherjada/career-automation) |
 
-The repos here are sanitized snapshots of that production work. Architecture is intact. Credentials and customer PII are not.
+Also public: [AI Hair Salon](https://github.com/amansherjada/ai-hair-salon) — multimodal hairstyle recommendation.
 
----
-
-## Numbers that mean something
-
-| Result | System |
-|---|---|
-| **55% lower** LLM API cost, **95%** coverage maintained | CRM Call Audit |
-| **100%** of sales calls reviewed automatically | CRM Call Audit |
-| **300% more** content output | n8n + GenAI workflows |
-| **107 employees** on face-biometric payroll | Hazri Box |
-| **37 training videos** indexed into a live RAG system | Sales LMS |
-| **11 quality parameters** scored per call, 3 sales teams | CRM Call Audit |
-
----
-
-## Production systems
-
-> These are sanitized public snapshots. Live credentials, customer PII, and private keys are not included.
-
-### [HireOS](https://github.com/amansherjada/hireos) — AI Recruitment Platform
-End-to-end hiring, zero manual steps between application and scored result.  
-CV parse → GPT-4o personalised questions → WhatsApp test delivery → real-time anti-cheat (tab-switch tracking) → auto-grading → HR dashboard with DISC personality profiling and role-fit analysis.  
-`React` `Vite` `Google Apps Script` `OpenRouter` `WhatsApp`
-
-### [CRM Call Audit](https://github.com/amansherjada/crm-call-audit) — Sales Call QA Pipeline
-Every sales call, audited automatically across 11 quality parameters for 3 teams. Eliminated manual review entirely. Model routing (smart escalation between smaller and larger models) cut API costs 55% while keeping 95% high-priority coverage.  
-`FastAPI` `Whisper` `GPT-4o` `Python`
-
-### [AHL Sales LMS](https://github.com/amansherjada/ahl-sales-lms) — RAG Training Platform with Voice Roleplay
-Full-stack learning management system with RAG over 37 video transcripts, voice AI roleplay, and real-time scoring. Live in daily production across two sales teams.  
-`React` `Node.js` `MongoDB` `Pinecone` `AssemblyAI` `LangChain`
-
-### [Hazri Box](https://github.com/amansherjada/hazri-box) — Attendance & Payroll PWA
-Installable PWA for 107 employees — face biometric + GPS geofenced punches, automated payroll calculation, late/OT rules, and WhatsApp leave approvals. Solved a silent firmware disconnection issue by building a custom pull-based LAN bridge with a watchdog process.  
-`React` `Vite` `FastAPI` `Google Sheets`
-
-### [Marketing Attribution](https://github.com/amansherjada/marketing-attribution) — Real-Time Funnel Tracking
-Full Meta Ads → WhatsApp → booking funnel tracked in real time via Gallabox webhooks and MongoDB Change Streams. UTM tracking across ads, website, and YouTube to calculate campaign ROI.  
-`GCP Cloud Run` `Firestore` `MongoDB` `Webhooks`
-
-### [Career Automation](https://github.com/amansherjada/career-automation) — Human-in-the-Loop Career OS
-Production-grade AI career operating system for a UAE job search. Automates research, scoring, deduplication, contact verification, and draft preparation — while keeping every irreversible action (sending email, submitting applications) under human control. MCP server on Cloudflare Workers, Google Sheets as an auditable database, Grok Automations for daily orchestration.  
-`Cloudflare Workers` `TypeScript` `MCP` `OAuth 2.0 + PKCE` `Google Apps Script` `Grok`
-
-### [AI Hair Salon](https://github.com/amansherjada/ai-hair-salon) — Multimodal Hairstyle Recommendation
-Browser-based multimodal AI app. Image upload → Gemini Pro identity-preserving hairstyle generation → AI analysis report.  
-`HTML/CSS/JS` `Google Gemini`
+Most of this was built as sole AI architect / team lead (Feb 2025 – Aug 2026). Company-owned source stays in the org. What is here is a clean snapshot plus architecture, so a hiring manager can see how the systems were designed.
 
 ---
 
 ## Stack
 
-| Layer | Tools |
-|---|---|
-| **AI / Agents** | LangChain · RAG · Prompt + Tool Calling · OpenAI (GPT-4o, Whisper) · AssemblyAI · Gemini · n8n · CrewAI · MCP |
-| **Backend** | Python · FastAPI · Node.js · REST APIs · Webhooks · Google Apps Script |
-| **Frontend** | TypeScript · React · Next.js 15 · Vite · Streamlit · Payload CMS 3 · Tailwind CSS |
-| **Data** | PostgreSQL · MongoDB · Firestore · Redis · SQLite · Pinecone · AstraDB |
-| **Cloud / Ops** | Docker · GCP · Cloudflare Workers · AWS · OCI · GitHub Actions |
-| **Daily build tools** | Claude Code · Cursor · ChatGPT |
-| **In progress** | Microsoft AI-103 Azure AI Apps & Agents Developer Associate (Azure AI Foundry training completed, exam target Sep 2026) |
+**AI / agents** — LangChain, RAG, prompt + tool calling, OpenAI (GPT-4o, Whisper), AssemblyAI, Gemini, n8n, CrewAI, MCP
 
----
+**Backend** — Python, FastAPI, Node.js, REST, webhooks, Google Apps Script
 
-## Notable standalone projects
+**Frontend** — TypeScript, React, Next.js 15, Vite, Streamlit
 
-**J.A.R.V.I.S. — AI Recruitment Pipeline**  
-n8n multi-agent LinkedIn search pipeline (SerpAPI) that scrapes, scores, and stores candidate profiles into a Google Sheet ATS. GPT-powered sourcing engine with conversation memory and negotiation-strategy generation.  
-`Google Apps Script` `n8n` `OpenRouter` `SerpAPI`
+**Data** — PostgreSQL, MongoDB, Firestore, Redis, Pinecone, AstraDB
 
-**RAG PDF Query System**  
-Document QA with sub-second semantic search across 100+ page PDFs using LangChain and AstraDB vector embeddings. Source citations in UI.  
-`Python` `LangChain` `AstraDB` `Streamlit`
+**Cloud / ops** — Docker, GCP, Cloudflare Workers, AWS, OCI, GitHub Actions
 
-**Llama-3.2-1B Fine-Tuning with QLoRA**  
-Fine-tuned Meta Llama-3.2-1B using QLoRA (4-bit quantization), FP16 mixed-precision, and AdamW 8-bit on a consumer GPU. Published reference notebook on [Kaggle](https://www.kaggle.com/amansherjadakhan) and [Hugging Face](https://huggingface.co/amansherjada).  
-`PyTorch` `LoRA` `HuggingFace` `Kaggle`
+I use Claude Code, Cursor, and ChatGPT as daily build tools. Azure AI Foundry / Microsoft AI-103 is in progress — training completed, not claimed as production experience.
 
 ---
 
 ## Experience
 
 **AI Developer → AI Team Lead**  
-American Hairline · Alchemane Hair Extensions · Ydigital · *Feb 2025 – Aug 2026 · Mumbai*
+American Hairline · Alchemane Hair Extensions · Ydigital  
+Feb 2025 – Aug 2026 · Mumbai
 
-Sole AI architect and team lead (3–4 people). Responsible for the end-to-end design, development, and deployment of all AI and automation systems across three group companies. Built everything above, plus an internal task management portal (Next.js + Cloudflare Workers D1), CEO-level MIS dashboards, and a full website rebuild of americanhairline.com (Next.js 15, Payload CMS 3, PostgreSQL, Redis, Docker).
+Sole AI architect across the group. Shipped the systems above, plus an internal task manager, a Next.js + Payload CMS website rebuild, and CEO-level MIS dashboards.
 
 **AI & Automation Executive**  
-AYA Facility Management · *Mar 2024 – Oct 2024 · Mumbai*
+AYA Facility Management  
+Mar 2024 – Oct 2024 · Mumbai
 
-Google Apps Script workflow automation, an AI-powered customer support chatbot, and the company website.
+Apps Script automation, an AI support chatbot, and the company site.
 
----
+**B.E. Computer Science**  
+Savitribai Phule Pune University · 2020 – 2024
 
-## Education & Certifications
-
-**B.E. Computer Science** · Savitribai Phule Pune University · 2020–2024
-
-- Kaggle Notebook Expert — Top 1,300 of 60,000+ contributors (Top 2%)
-- Microsoft AI-103: Azure AI Apps & Agents Developer Associate — *In progress, target Sep 2026*
-- Microsoft Azure AI Foundry Virtual Training Day — *Completed Aug 2026*
-- Oracle Cloud Infrastructure AI Foundations Professional
-- Supervised Machine Learning & Advanced Learning Algorithms — DeepLearning.AI (Coursera)
-- EF SET English Certificate — 74/100 (C2 Proficient)
+Kaggle Notebooks Expert · Oracle Cloud Infrastructure AI Foundations Professional · DeepLearning.AI (Supervised ML) · EF SET English C2 (74/100)
 
 ---
 
 ## Contact
 
-Based in **Abu Dhabi**, available to start immediately.
+I am based in **Abu Dhabi** and available to start.
 
 - Email: [amanskhan55@gmail.com](mailto:amanskhan55@gmail.com)
 - Portfolio: [theamankhan.com](https://theamankhan.com)
